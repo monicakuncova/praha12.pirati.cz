@@ -7,17 +7,15 @@ titles:
 category:                   # kategorie: pms, clenove, priznivci
 - clenove
 
-img: people/monika-kuncova.jpg   # 165 x 220
+img: ![bDSC_4841](https://user-images.githubusercontent.com/65832109/186531636-fcd5d482-bf62-4de7-9c75-3a63a2624051.JPG)
 description: koordinátorka Středočeského kraje # kratký popis, max 160 znaků
 mail: monika.kuncova@pirati.cz
 profiles:
-  facebook: 
+  facebook: https://www.facebook.com/monica.kuncova.7
 ---
 
-Monika Kuncová (*1.3. 1989) spolupracuje s Pirátskou stranou od roku 2020 jako koordinátorka Středočeského kraje.
+Jmenuji se Monika Kuncová (*1.3.1989) a žiji na okraji Prahy 12 v Cholupicích. Jsem mámou čtyřletého syna, koordinátorkou Středočeského kraje pro Piráty a předsedkyní Sdružení pro rozvoj Cholupic.
 
-Pochází z okrajové části Prahy. Vystudovala Vysokou školu obchodní obor Mezinárodní teritoriální studia.
+V rámci Sdružení pro rozvoj Cholupic a Komise pro rozvoj Komořan, Cholupic a Točné se zaměřuji na problémy okrajových částí Prahy 12. Snažím se prosadit výstavbu chodníků, rekonstrukci Kulturního domu v Cholupicích a s ním související vybudování školky a kulturního sálu, rekonstrukci náměstí na Točné a s ní související vybudování točny pro autobusy a napojení Točné a Cholupic přímou linkou na Polikliniku Modřany. 
 
-V roce 2018 založila na Praze 12 Sdružení pro rozvoj Cholupic, ve kterém současně působí jako předsedkyně.
-
-Mezi její zájmy patří beachvolejbal, bowling, lyžování, in-line brusle, cestování a fotografování.
+Mezi moje zájmy patří beachvolejbal, bowling, lyžování, in-line brusle, cestování a fotografování.
